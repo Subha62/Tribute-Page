@@ -1,0 +1,27 @@
+*{
+    
+    scroll-behavior: smooth;
+}
+
+.item{
+    display: flex;
+    gap: 8px;
+    
+}
+.item a{
+    text-decoration: none;
+    font-size: 18px;
+}
+
+img{
+    margin: 10px;
+}
+.people a{
+    text-decoration: none;
+}
+
+.link a{
+    text-decoration: none;
+    color:purple;
+    margin-bottom: 10px;
+}
